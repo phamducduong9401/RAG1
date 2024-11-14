@@ -4,4 +4,5 @@ sentence_transformers
 fugashi
 unidic-lite
 langchain-ollama
+chromadb
 streamlit
