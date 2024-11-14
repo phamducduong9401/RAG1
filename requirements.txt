@@ -1,0 +1,7 @@
+langchain
+langchain-chroma
+sentence_transformers
+fugashi
+unidic-lite
+langchain-ollama
+streamlit
